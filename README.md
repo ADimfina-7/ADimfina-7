@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Adlin Dimfina F R, a passionate Technical Writer and Business Analyst with expertise in AI, machine learning, and power systems.
+- 👋 Hi, I’m Adlin Dimfina F R, a Junior Product Manager with passion for Technical Writing and expertise in AI, machine learning, and power systems.
 - 👀 I’m interested in crafting impactful technical documentation, exploring AI-driven solutions, and contributing to innovative projects in energy management and smart technologies.
 - 🌱 I’m currently learning SQL and wireframe preparation to stay ahead in my field.
 - 💞️ I’m looking to collaborate on AI-based solutions for energy management, smart agriculture, and innovative technical writing projects.
